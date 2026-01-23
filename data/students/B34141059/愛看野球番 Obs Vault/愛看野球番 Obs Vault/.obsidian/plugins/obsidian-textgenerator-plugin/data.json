@@ -107,7 +107,7 @@
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyDt6htV3ktvG__UbmeuBpJTXc2UtXdqY00"
+    "Google GenerativeAI (Langchain).api_key": "__@#key_prefix#@__AIzaSyCT7ZBwr_FXRnUInAUxApXv0dAVdUDvf2U"
   },
   "api_key_encrypted": "__@#key_prefix#@__"
 }

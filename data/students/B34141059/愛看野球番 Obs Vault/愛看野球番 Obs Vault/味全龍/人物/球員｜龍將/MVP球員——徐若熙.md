@@ -56,7 +56,7 @@ aliases:
 <iframe src="https://gemini.google.com/share/645c966f35a4"width="700"height="500"></iframe>
 製作：gemini canvas
 
-# 徐若熙復出條漫
+# 徐若熙復出 條漫
 ![[未命名設計 (4).png|600]]
 
 
@@ -106,3 +106,5 @@ aliases:
 
 [^16]: 身披18號王牌球衣徐若熙正式加盟日本職棒福岡軟銀鷹隊 運動視界 2025/12/26
 	https://www.sportsv.net/articles/124213
+
+
